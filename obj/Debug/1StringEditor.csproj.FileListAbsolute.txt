@@ -1,0 +1,10 @@
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\1StringEditor.csproj.AssemblyReference.cache
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\StringEditor.MainForm.resources
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\StringEditor.Properties.Resources.resources
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\1StringEditor.csproj.GenerateResource.cache
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\1StringEditor.csproj.CoreCompileInputs.cache
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\bin\Debug\StringEditor.exe
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\bin\Debug\StringEditor.pdb
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\StringEditor.exe
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\obj\Debug\StringEditor.pdb
+C:\Users\silvi\Downloads\Source_1StringEditor\1StringEditor\bin\Debug\StringEditor.exe.config
